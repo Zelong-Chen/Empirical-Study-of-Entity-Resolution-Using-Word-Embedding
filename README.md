@@ -11,6 +11,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
     1. TF-IDF.ipynb
 2. Random Indexing
 3. FastText Unsupervised (CBOW/SkipGram)
+    1. FastText(Unsupervised).ipynb
 
 #### Pre-Trained Approaches
 1. FastText Wikipedia (CBOW)
