@@ -1,4 +1,4 @@
-# Empirical-Study-of-Entity-Resolution-Using-Word-Embedding
+# Empirical Study of Entity Resolution Using Word Embedding
 
 
 #### FastText Pre-Trained Word Vectors:
