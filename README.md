@@ -9,8 +9,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
 #### Unsupervised Approaches
 1. TF-IDF
 2. Random Indexing
-3. FastText CBOW
-4. FastText SkipGram
+3. FastText Unsupervised (CBOW/SkipGram)
 
 #### Pre-Trained Approaches
 1. FastText Wikipedia (CBOW)
