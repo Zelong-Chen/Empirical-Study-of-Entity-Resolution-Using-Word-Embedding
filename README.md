@@ -8,6 +8,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
 
 #### Unsupervised Approaches
 1. TF-IDF
+        1. TF-IDF.ipynb
 2. Random Indexing
 3. FastText Unsupervised (CBOW/SkipGram)
 
