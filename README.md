@@ -13,6 +13,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
 
 #### Pre-Trained Approaches
 1. FastText Wikipedia (CBOW)
+    1. FastText (Wiki CBOW).ipynb
 2. FastText Wikipedia (SkipGram):
     1. FastText (Wiki SkipGram).ipynb
 3. FastText Wikipedia (CBOW/SkipGram) + Random Indexing
