@@ -1,5 +1,7 @@
 # Empirical Study of Entity Resolution Using Word Embedding
 
+#### FastText Python Installation:
+https://fasttext.cc/docs/en/support.html#building-fasttext-python-module
 
 #### FastText Pre-Trained Word Vectors:
 CBOW: https://fasttext.cc/docs/en/crawl-vectors.html  
