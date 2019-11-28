@@ -21,3 +21,4 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
 2. FastText Wikipedia (SkipGram):
     1. FastText (Wiki SkipGram).ipynb
 3. FastText Wikipedia (CBOW/SkipGram) + Random Indexing
+    1. Random Indexing (Pre-Trained).ipynb
