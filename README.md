@@ -1,8 +1,8 @@
 # Empirical Study of Entity Resolution Using Word Embedding
 
-## Abstract
+### Abstract
 
-## Archive Link
+### Archive Link
 
 ### Library and Pre-Trained Embedding
 FastText Python Installation:  
