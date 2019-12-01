@@ -1,5 +1,5 @@
 # Empirical Study of Entity Resolution Using Word Embedding
-------
+======
 
 ### Library and Pre-Trained Embedding
 ------
