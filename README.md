@@ -2,6 +2,7 @@
 
 
 ### Library and Pre-Trained Embedding
+------
 #### FastText Python Installation:
 https://fasttext.cc/docs/en/support.html#building-fasttext-python-module
 
@@ -10,6 +11,7 @@ CBOW: https://fasttext.cc/docs/en/crawl-vectors.html
 SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html  
 
 ### Code + Experimental Results
+------
 #### Unsupervised Approaches
 1. TF-IDF
     1. TF-IDF.ipynb
