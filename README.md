@@ -2,10 +2,10 @@
 
 
 ### Library and Pre-Trained Embedding
-FastText Python Installation:
+FastText Python Installation:  
 https://fasttext.cc/docs/en/support.html#building-fasttext-python-module
 
-FastText Pre-Trained Word Vectors:
+FastText Pre-Trained Word Vectors:  
 CBOW: https://fasttext.cc/docs/en/crawl-vectors.html  
 SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html  
 
