@@ -22,15 +22,15 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
     1. FastText(Unsupervised).ipynb
 
 #### Pre-Trained Approaches
-1. FastText Wikipedia (CBOW)
+4. FastText Wikipedia (CBOW)
     1. FastText (Wiki CBOW).ipynb
-2. FastText Wikipedia (SkipGram):
+5. FastText Wikipedia (SkipGram):
     1. FastText (Wiki SkipGram).ipynb
-3. FastText Wikipedia (CBOW/SkipGram) + Random Indexing
+6. FastText Wikipedia (CBOW/SkipGram) + Random Indexing
     1. Random Indexing (Pre-Trained CBOW).ipynb
     2. Random Indexing (Pre-Trained SkipGram).ipynb
     
 #### Further Experiments
-1. Combination of Ranked List (Average Cosine Similarity)
-2. Word Embedding Concatenation
-3. Blocking using Manufacturing and Price Fields
+7. Combination of Ranked List (Average Cosine Similarity)
+8. Word Embedding Concatenation
+9. Blocking using Manufacturing and Price Fields
