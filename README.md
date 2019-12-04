@@ -33,6 +33,8 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
 #### Further Experiments
 7. Combination of Ranked List (Average Cosine Similarity)
     1. TF-IDF + Pre-Trained (SkipGram) Cosine Similarity.ipynb
+    2. Pre-Trained + Unsupervised (SkipGram) Cosine Similarity.ipynb
 8. Word Embedding Concatenation
     1. TF-IDF + Pre-Trained (SkipGram) Vector Concat.ipynb
+    2. Pre-Trained + Unsupervised (SkipGram) Vector Concat.ipynb
 9. Blocking using Manufacturing and Price Fields
