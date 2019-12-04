@@ -30,3 +30,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
     1. Random Indexing (Pre-Trained CBOW).ipynb
     2. Random Indexing (Pre-Trained SkipGram).ipynb
     
+#### Further Experiments
+1. Combination of Ranked List (Average Cosine Similarity)
+2. Word Embedding Concatenation
+3. Blocking using Manufacturing and Price Fields
