@@ -38,3 +38,7 @@ SkipGram: https://fasttext.cc/docs/en/pretrained-vectors.html
     1. TF-IDF + Pre-Trained (SkipGram) Vector Concat.ipynb
     2. Pre-Trained + Unsupervised (SkipGram) Vector Concat.ipynb
 9. Blocking using Manufacturing and Price Fields
+    1. FastText (Wiki SkipGram) + Blocking (-0.25).ipynb
+    2. FastText (Wiki SkipGram) + Blocking (-3).ipynb
+    3. TF-IDF + Pre-Trained (SkipGram) Vector Concat + Blocking (-0.25).ipynb	
+    4. TF-IDF + Pre-Trained (SkipGram) Vector Concat + Blocking (-3).ipynb	
