@@ -1,8 +1,50 @@
 # Empirical Study of Entity Resolution Using Word Embedding
+## Table of Contents
+- [Empirical Study of Entity Resolution Using Word Embedding](#empirical-study-of-entity-resolution-using-word-embedding)
+  * [Abstract](#abstract)
+  * [Proposed Approach](#proposed-approach)
+    + [Overview](#overview)
+    + [Unsupervised Approach](#unsupervised-approach)
+      - [1. TF-IDF](#1-tf-idf)
+      - [2. Random Index](#2-random-index)
+      - [3. FastText Unsupervised CBOW + SkipGram](#3-fasttext-unsupervised-cbow---skipgram)
+    + [Pre-Trained Approach](#pre-trained-approach)
+      - [4. FastText CBOW (Common Crawl + Wikipedia)](#4-fasttext-cbow--common-crawl---wikipedia-)
+      - [5. FastText SkipGram (Wikipedia)](#5-fasttext-skipgram--wikipedia-)
+      - [6. FastText CBOW/SkipGram + Random Indexing](#6-fasttext-cbow-skipgram---random-indexing)
+    + [Further Experiments](#further-experiments)
+      - [7. Combined Ranked List from Two best approach](#7-combined-ranked-list-from-two-best-approach)
+      - [8. Concatenate Word Embeddings of Two best approach](#8-concatenate-word-embeddings-of-two-best-approach)
+      - [9. Blocking using Manufacturer & Price of Top 3 Approach](#9-blocking-using-manufacturer---price-of-top-3-approach)
+  * [Experimental Results](#experimental-results)
+  * [Library and Pre-Trained Embedding](#library-and-pre-trained-embedding)
+  * [Code](#code)
+      - [Unsupervised Approaches](#unsupervised-approaches)
+      - [Pre-Trained Approaches](#pre-trained-approaches)
+      - [Further Experiments](#further-experiments-1)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
+
+
 
 ## Abstract
 
 ## Proposed Approach
+### Overview
+### Unsupervised Approach
+#### 1. TF-IDF
+#### 2. Random Index
+#### 3. FastText Unsupervised CBOW + SkipGram
+### Pre-Trained Approach
+#### 4. FastText CBOW (Common Crawl + Wikipedia)
+#### 5. FastText SkipGram (Wikipedia)
+#### 6. FastText CBOW/SkipGram + Random Indexing
+### Further Experiments
+#### 7. Combined Ranked List from Two best approach
+#### 8. Concatenate Word Embeddings of Two best approach
+#### 9. Blocking using Manufacturer & Price of Top 3 Approach 
+
+
 
 ## Experimental Results
 
