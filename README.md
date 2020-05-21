@@ -25,9 +25,8 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
-
-
 ## Abstract
+Entity Resolution was originally used to be solved through Deterministic Linkage Methods and Probabilistic Linkage Methods that simply matches identifiers from both record pairs and links them when they agree. With modern machine learning techniques applied to this problem, solutions such as string matching, string distance (Jaccard Similarity), graphical models, and etc have often improved the performance of many record linkage systems. Most of these modern machine learning solutions rely on a variation of string matching to link record pairs. This project is focused on solving this problem with the use of word embeddings that essentially captures the word’s meaning and represents it in a vector space. By using word semantic, the machines can now try to link records through the words meaning instead of by matching the letters of the string. This can help solve the problem of polysemy, where different words or phrases can have related meaning. Word embeddings can capture the difference in the meanings of the same word while string matching would not. Thus, word embedding can be a more general approach that can be applied to Entity Resolution problems in many different fields with an optimal performance.
 
 ## Proposed Approach
 ### Overview
