@@ -11,7 +11,7 @@
     + [Pre-Trained Approach](#pre-trained-approach)
       - [4. FastText CBOW (Common Crawl + Wikipedia)](#4-fasttext-cbow--common-crawl---wikipedia-)
       - [5. FastText SkipGram (Wikipedia)](#5-fasttext-skipgram--wikipedia-)
-      - [6. FastText CBOW/SkipGram + Random Indexing](#6-fasttext-cbow-skipgram---random-indexing)
+      - [6. FastText CBOW/SkipGram + Random Indexing](#6-fasttext-cbowskipgram--random-indexing)
     + [Further Experiments](#further-experiments)
       - [7. Combined Ranked List from Two best approach](#7-combined-ranked-list-from-two-best-approach)
       - [8. Concatenate Word Embeddings of Two best approach](#8-concatenate-word-embeddings-of-two-best-approach)
